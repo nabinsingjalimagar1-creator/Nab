@@ -1,9 +1,9 @@
 {
   "facebookAccount": {
-    "email": "08121662697",
+    "email": "",
     "password": "",
     "2FASecret": "",
-    "i_user": "61565718158450",
+    "i_user": "",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
     "intervalGetNewCookie": 1440,
@@ -17,14 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100017555747989"
+    "100087555698178"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "『 + 』•𝗠𝗔𝗧𝗘𝗢 𝗖𝗛𝗔𝗧𝗕𝗢𝗧 ( 𝙻𝚃𝙳 )",
+  "nickNameBot": "𝐊𝐚𝐫𝐦𝐚 𝐀𝐤𝐚𝐛𝐚𝐧𝐞",
   "prefix": "+",
   "database": {
     "type": "sqlite",
